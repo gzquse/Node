@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/lesson-05-global" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-06-modules" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-07-filesystem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-08-streams" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-09-http" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-10-response" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-11-route" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-12-statuscode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-13-npmglobal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-14-lodash" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-15-nodemodules" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-16-express" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-17-ejs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-18-passdata" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-19-partials" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-20-css" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-21-middleware" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-22-mongoDB" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-23-installMac" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-24-installWin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-25-atlas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-26-connect" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-27-schemaModel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-28-saveAndFind" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-29-allBlogs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-30-createblog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-31-details" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-32-deleteblog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-33-routes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson-34-mvc" vcs="Git" />
+  </component>
+</project>
